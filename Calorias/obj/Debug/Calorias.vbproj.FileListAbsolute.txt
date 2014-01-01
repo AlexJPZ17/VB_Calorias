@@ -1,0 +1,10 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calorias\Calorias\bin\Debug\Calorias.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calorias\Calorias\bin\Debug\Calorias.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calorias\Calorias\bin\Debug\Calorias.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calorias\Calorias\bin\Debug\Calorias.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calorias\Calorias\obj\Debug\Calorias.Form1.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calorias\Calorias\obj\Debug\Calorias.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calorias\Calorias\obj\Debug\Calorias.vbproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calorias\Calorias\obj\Debug\Calorias.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calorias\Calorias\obj\Debug\Calorias.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Calorias\Calorias\obj\Debug\Calorias.pdb
